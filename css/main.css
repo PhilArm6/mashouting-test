@@ -3,7 +3,7 @@ layout: null
 ---
 @font-face {
   font-family: Satisfy;
-  src: url(/css/Satisfy-Regular.ttf);
+  src: url(/mashouting-test/css/Satisfy-Regular.ttf);
 }
 @import url("pygment_highlights.css");
 
