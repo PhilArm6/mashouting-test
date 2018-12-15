@@ -513,7 +513,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Calligraffitti,'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -530,7 +530,7 @@ footer .theme-by {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 50px;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;
