@@ -1,7 +1,10 @@
 ---
 layout: null
 ---
-
+@font-face {
+  font-family: Satisfy;
+  src: url(/css/Satisfy-Regular.ttf);
+}
 @import url("pygment_highlights.css");
 
 /* --- General --- */
@@ -513,7 +516,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: Calligraffitti,'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Satisfy,'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   right: 0;
   bottom: 0;
   display: none;
